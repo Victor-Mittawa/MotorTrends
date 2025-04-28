@@ -1,0 +1,26 @@
+[
+  {
+    "id": "news_001",
+    "title": "Tesla Unveils Next-Gen Roadster",
+    "summary": "The new Roadster promises to break all speed records.",
+    "content": "Tesla just dropped jaws with the launch of their new Roadster...",
+    "author": "Auto Insider",
+    "date": "2025-04-22",
+    "images": [
+      "https://yourcdn.com/images/tesla1.jpg",
+      "https://yourcdn.com/images/tesla2.jpg"
+    ]
+  },
+  {
+    "id": "news_002",
+    "title": "BMW Debuts Electric M3",
+    "summary": "BMW brings electric performance to its M-series.",
+    "content": "In a major move, BMW unveiled the first ever electric M3...",
+    "author": "Car Daily",
+    "date": "2025-04-23",
+    "images": [
+      "https://yourcdn.com/images/bmw1.jpg",
+      "https://yourcdn.com/images/bmw2.jpg"
+    ]
+  }
+]
