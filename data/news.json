@@ -1,20 +1,16 @@
 [
   {
-    "title": "2025 Tesla Roadster Launch",
-    "snippet": "Elon Musk announces new launch date",
-    "article": "Full article text here...",
-    "images": [
-      "https://www.businesstoday.com.my/wp-content/uploads/2024/02/next-gen-roadster.jpg"
-    ],
-    "category": "EVs"
+    "id": "1",
+    "title": "Tesla News",
+    "summary": "Latest Tesla updates",
+    "content": "Full article text here...",
+    "images": ["https://www.businesstoday.com.my/wp-content/uploads/2024/02/next-gen-roadster.jpg"]
   },
   {
-    "title": "New Toyota SUV Revealed",
-    "snippet": "Toyota unveils their 2025 model",
-    "article": "Full article text here...",
-    "images": [
-      "https://toyotacanada.scene7.com/is/image/toyotacanada/2024_Toyota_Land%20Cruiser_Traildust_062?ts=1728343727427&dpr=off"
-    ],
-    "category": "SUVs"
+    "id": "2",
+    "title": "Toyota News",
+    "summary": "New Toyota model",
+    "content": "Full article text here...",
+    "images": ["https://toyotacanada.scene7.com/is/image/toyotacanada/2024_Toyota_Land%20Cruiser_Traildust_062?ts=1728343727427&dpr=off"]
   }
 ]
