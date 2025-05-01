@@ -1,9 +1,20 @@
-{
-  "id": 1,
-  "title": "2025 Tesla Roadster Launch Delayed",
-  "summary": "Elon Musk’s dream machine is still stuck in the pit lane, and here’s why.",
-  "category": "EV",
-  "imageUrl": "https://yourcdn.com/tesla-roadster-2025.jpg",
-  "content": "When Tesla unveiled the second-generation Roadster back in 2017, the automotive world went into a frenzy. Promising mind-bending specs like a 0–60 mph time under two seconds and a top speed north of 250 mph, it was poised to redefine the electric supercar. Originally scheduled to launch in 2020, the Roadster’s production has been delayed multiple times — and here we are in 2025, still waiting.\n\nSo, what’s going on? Why is one of the most anticipated electric vehicles of the decade still stuck in the pit lane? Let’s dive in.\n\n1. Tesla’s Shifting Priorities\nWhile the Roadster is Tesla’s halo car, it hasn’t been the company’s bread and butter. Tesla has prioritized high-volume, high-demand models like the Model 3, Model Y, and more recently, the Cybertruck. The energy and resources required to mass-produce these vehicles have taken precedence, pushing the Roadster further down the pipeline.\n\nEven Elon Musk admitted that the Roadster, while important, isn’t a business priority — it's more of a passion project. And when production bandwidth is limited, passion projects often get parked.\n\n2. A Car Redesigned in Orbit\nThe Roadster of 2017 is not the Roadster of 2025. Elon Musk has hinted multiple times that the final version will feature SpaceX-inspired technology. We're talking cold air thrusters, improved aerodynamics, and a completely reimagined drivetrain. Sounds cool, but these changes haven’t been easy to integrate.\n\nA complete redesign means starting over on engineering, safety testing, and real-world validation. It’s the equivalent of building a rocketship on wheels — and unsurprisingly, that takes time.\n\n3. Global Supply Chain Setbacks\nCOVID-19, semiconductor shortages, and logistics bottlenecks have disrupted the entire auto industry, and Tesla is no exception. While the company has done a remarkable job navigating the supply chain chaos, niche vehicles like the Roadster have seen the longest delays. With limited production runs, sourcing specialized components for a low-volume car becomes less viable during a crisis.\n\nTesla chose to allocate resources to vehicles that could deliver more immediate returns — smart business, but frustrating for enthusiasts.\n\n4. Engineering to Break the Laws of Physics\nElon Musk claims the Roadster will hit 60 mph in under a second with the help of rocket thrusters. Let that sink in.\n\nThis kind of performance isn’t just cutting-edge — it’s borderline experimental. Meeting these ambitious targets without compromising safety, battery life, or everyday usability is a massive engineering hurdle. These challenges require extensive prototyping, and even more extensive testing.\n\nTesla isn’t just building a fast EV — it’s trying to build the fastest production car in the world. And that’s a whole different beast.\n\n5. Hope on the Horizon\nDespite all the delays, Tesla has not abandoned the Roadster. Reservations are still open, and Musk continues to tease progress. In a recent statement, he mentioned that production could begin by the end of 2025 — although, with Tesla timelines, that’s best taken with a grain of lithium.\n\nFans and reservation holders remain hopeful. And given Tesla’s track record of delivering on promises, albeit fashionably late, the Roadster may still shatter expectations when it does arrive.\n\nFinal Thoughts\nThe Tesla Roadster is more than just an electric supercar — it’s a symbol of what's possible when ambition outpaces convention. The delay might be disappointing, but it also suggests that Tesla is swinging for the fences.\n\nWhether you see it as vaporware or visionary, one thing’s for sure: when the Roadster finally hits the road, it won’t just make headlines — it’ll make history.",
-  "timestamp": "2025-04-29T10:00:00Z"
-}
+[
+  {
+    "title": "2025 Tesla Roadster Launch",
+    "snippet": "Elon Musk announces new launch date",
+    "article": "Full article text here...",
+    "images": [
+      "https://www.businesstoday.com.my/wp-content/uploads/2024/02/next-gen-roadster.jpg"
+    ],
+    "category": "EVs"
+  },
+  {
+    "title": "New Toyota SUV Revealed",
+    "snippet": "Toyota unveils their 2025 model",
+    "article": "Full article text here...",
+    "images": [
+      "https://toyotacanada.scene7.com/is/image/toyotacanada/2024_Toyota_Land%20Cruiser_Traildust_062?ts=1728343727427&dpr=off"
+    ],
+    "category": "SUVs"
+  }
+]
