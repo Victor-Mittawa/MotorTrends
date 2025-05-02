@@ -3,14 +3,16 @@
     "id": "1",
     "title": "Tesla News",
     "summary": "Latest Tesla updates",
-    "content": "Full article text here...",
+    "content": "Full content...",
+    "category": "EVs",
     "images": ["https://www.businesstoday.com.my/wp-content/uploads/2024/02/next-gen-roadster.jpg"]
-  },
+  }
   {
     "id": "2",
     "title": "Toyota News",
     "summary": "New Toyota model",
     "content": "Full article text here...",
+    "category": "SUVs",
     "images": ["https://toyotacanada.scene7.com/is/image/toyotacanada/2024_Toyota_Land%20Cruiser_Traildust_062?ts=1728343727427&dpr=off"]
   }
 ]
