@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "title": "Tesla News",
-    "summary": "Latest Tesla updates",
+    "title": "2025 Tesla Roadster Launch Delayed Again",
+    "summary": "Elon Musk approves on tesla production issues....",
     "content": "When Tesla unveiled the second-generation Roadster back in 2017, the automotive world went into a frenzy. Promising mind-bending specs like a 0–60 mph time under two seconds and a top speed north of 250 mph, it was poised to redefine the electric supercar. Originally scheduled to launch in 2020, the Roadster’s production has been delayed multiple times — and here we are in 2025, still waiting.\n\nSo, what’s going on? Why is one of the most anticipated electric vehicles of the decade still stuck in the pit lane? Let’s dive in.\n\n1. Tesla’s Shifting Priorities\nWhile the Roadster is Tesla’s halo car, it hasn’t been the company’s bread and butter. Tesla has prioritized high-volume, high-demand models like the Model 3, Model Y, and more recently, the Cybertruck. The energy and resources required to mass-produce these vehicles have taken precedence, pushing the Roadster further down the pipeline.\n\nEven Elon Musk admitted that the Roadster, while important, isn’t a business priority — it's more of a passion project. And when production bandwidth is limited, passion projects often get parked.\n\n2. A Car Redesigned in Orbit\nThe Roadster of 2017 is not the Roadster of 2025. Elon Musk has hinted multiple times that the final version will feature SpaceX-inspired technology. We're talking cold air thrusters, improved aerodynamics, and a completely reimagined drivetrain. Sounds cool, but these changes haven’t been easy to integrate.\n\nA complete redesign means starting over on engineering, safety testing, and real-world validation. It’s the equivalent of building a rocketship on wheels — and unsurprisingly, that takes time.\n\n3. Global Supply Chain Setbacks\nCOVID-19, semiconductor shortages, and logistics bottlenecks have disrupted the entire auto industry, and Tesla is no exception. While the company has done a remarkable job navigating the supply chain chaos, niche vehicles like the Roadster have seen the longest delays. With limited production runs, sourcing specialized components for a low-volume car becomes less viable during a crisis.\n\nTesla chose to allocate resources to vehicles that could deliver more immediate returns — smart business, but frustrating for enthusiasts.\n\n4. Engineering to Break the Laws of Physics\nElon Musk claims the Roadster will hit 60 mph in under a second with the help of rocket thrusters. Let that sink in.\n\nThis kind of performance isn’t just cutting-edge — it’s borderline experimental. Meeting these ambitious targets without compromising safety, battery life, or everyday usability is a massive engineering hurdle. These challenges require extensive prototyping, and even more extensive testing.\n\nTesla isn’t just building a fast EV — it’s trying to build the fastest production car in the world. And that’s a whole different beast.\n\n5. Hope on the Horizon\nDespite all the delays, Tesla has not abandoned the Roadster. Reservations are still open, and Musk continues to tease progress. In a recent statement, he mentioned that production could begin by the end of 2025 — although, with Tesla timelines, that’s best taken with a grain of lithium.\n\nFans and reservation holders remain hopeful. And given Tesla’s track record of delivering on promises, albeit fashionably late, the Roadster may still shatter expectations when it does arrive.\n\nFinal Thoughts\nThe Tesla Roadster is more than just an electric supercar — it’s a symbol of what's possible when ambition outpaces convention. The delay might be disappointing, but it also suggests that Tesla is swinging for the fences.\n\nWhether you see it as vaporware or visionary, one thing’s for sure: when the Roadster finally hits the road, it won’t just make headlines — it’ll make history.",
     "category": "EVs",
     "images": ["https://www.businesstoday.com.my/wp-content/uploads/2024/02/next-gen-roadster.jpg",
@@ -11,13 +11,23 @@
   },
   {
     "id": "2",
-    "title": "Toyota News",
-    "summary": "New Toyota model",
+    "title": "New Toyota Land Cruiser 300-Evolution of a Legend",
+    "summary": "A closer look at the off-road king latest upgrade.......",
     "content": "Full article goes here",
     "category": "SUVs",
-    "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKcHHDOiv9I8lQaCT3hyiZnUmE-nPD20t-w&s",
+    "images": ["https://images.topgear.com.ph/topgear/images/2024/07/12/1-1720745934.jpg",
                "https://media.cdntoyota.co.za/toyotacms23/attachments/clp5597ar01l8okakhr2brhc7-lc-300-tech-hero-1920x1080.desktop.jpg",
                 "https://www.vredendaltoyota.co.za/images/Assets/Models/Land_Cruiser_300/ckrq1oovo5gvh0qlpdvv9pytw-2-performancemobile.jpg"]
+  },
+  {
+    "id": "3",
+    "title": "BMW Unveils the Electric M3",
+    "summary": "Electric M3 blends performance and sustainability........",
+    "content": "Full article goes here",
+    "category": "EVs",
+    "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nMsAFNQ5BoLiskWRapm_xCxl41_AifxIXQ&s",
+               "https://www.motortrend.com/uploads/2023/09/BMW-Vision-Neue-Klasse-concept-46.jpg?w=768&width=768&q=75&format=webp",
+                "https://img.icarcdn.com/autospinn/body/000000893116_e089366a_5341_435f_bada_b1acc3846942.jpg"]
   }
 ]
 
