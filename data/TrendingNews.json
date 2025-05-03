@@ -3,7 +3,7 @@
     "id": 1,
     "title": "2025 Volkswagen Tiguan",
     "summary": "The 2025 volkswagen will cost roughly $30,920",
-    "imageUrl": "https://images.hgmsites.net/hug/2025-volkswagen-tiguan_100949831_h.jpg",
+    "images": ["https://images.hgmsites.net/hug/2025-volkswagen-tiguan_100949831_h.jpg"]
     "date": "2024-05-01",
     "author": "Electric Vehicle News"
   },
