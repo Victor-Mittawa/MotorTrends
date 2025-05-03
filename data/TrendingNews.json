@@ -1,1 +1,42 @@
-
+[
+  {
+    "id": 1,
+    "title": "2025 Volkswagen Tiguan",
+    "summary": "The 2025 volkswagen will cost roughly $30,920",
+    "imageUrl": "https://images.hgmsites.net/hug/2025-volkswagen-tiguan_100949831_h.jpg",
+    "date": "2024-05-01",
+    "author": "Electric Vehicle News"
+  },
+  {
+    "id": 2,
+    "title": "Toyota Unveils New Hydrogen-Powered Concept Car",
+    "summary": "Toyota showcases its latest hydrogen fuel cell vehicle with 500-mile range.",
+    "imageUrl": "https://images.unsplash.com/photo-1494976388901-750342ad5036",
+    "date": "2024-04-28",
+    "author": "Green Auto Journal"
+  },
+  {
+    "id": 3,
+    "title": "Malawi's First Electric Vehicle Charging Network Announced",
+    "summary": "Government partners with private sector to install 20 charging stations nationwide.",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+    "date": "2024-04-25",
+    "author": "Malawi Automotive"
+  },
+  {
+    "id": 4,
+    "title": "Ford Recalls 150,000 Vehicles Over Brake System Issue",
+    "summary": "Recall affects 2022-2023 models of the F-150 and Explorer.",
+    "imageUrl": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
+    "date": "2024-04-22",
+    "author": "Safety First Auto"
+  },
+  {
+    "id": 5,
+    "title": "Luxury Car Sales Surge in African Markets",
+    "summary": "Mercedes, BMW report record sales in Sub-Saharan Africa for Q1 2024.",
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+    "date": "2024-04-20",
+    "author": "Global Auto Trends"
+  }
+]
