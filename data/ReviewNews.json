@@ -1,8 +1,30 @@
 [
   {
+    "id": 1,
     "title": "Get to know about Kei-Cars",
-    "thumbnail": "https://imgur.com/ZQrN340",
+    "thumbnail": "https://i.imgur.com/ZQrN340.jpg",
     "description": "Did you know that this category of cars delivers a stunning horsepower of 64HP?",
     "url": "https://www.youtube.com/shorts/Bc73guTRqK0"
+  },
+  {
+    "id": 2,
+    "title": "2024 Tesla Model Y Long Term Review",
+    "thumbnail": "https://i.imgur.com/H1lqCqO.jpg",
+    "description": "After 6 months with the Model Y, here's everything you need to know.",
+    "url": "https://www.youtube.com/watch?v=yourVideoId2"
+  },
+  {
+    "id": 3,
+    "title": "Is the BMW iX Worth the Hype?",
+    "thumbnail": "https://i.imgur.com/2nCt3Sb.jpg",
+    "description": "Luxury, power, and EV innovation collide. Full review inside!",
+    "url": "https://www.youtube.com/watch?v=yourVideoId3"
+  },
+  {
+    "id": 4,
+    "title": "Top 5 SUVs to Buy in 2025",
+    "thumbnail": "https://i.imgur.com/T0I7rVf.jpg",
+    "description": "We compare the best SUVs coming out this year. #MotorTrendsMW",
+    "url": "https://www.youtube.com/watch?v=yourVideoId4"
   }
 ]
