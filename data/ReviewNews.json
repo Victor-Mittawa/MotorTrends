@@ -4,27 +4,31 @@
     "title": "Get to know about Kei-Cars",
     "thumbnail": "https://i.imgur.com/ZQrN340.jpg",
     "description": "Did you know that this category of cars delivers a stunning horsepower of 64HP?",
-    "url": "https://www.youtube.com/shorts/Bc73guTRqK0"
+    "url": "https://www.youtube.com/shorts/Bc73guTRqK0",
+    "timestamp": "2025-05-05T17:30:00Z"
   },
   {
     "id": 2,
     "title": "2024 Tesla Model Y Long Term Review",
-    "thumbnail": "https://i.imgur.com/H1lqCqO.jpg",
+    "thumbnail": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-2-Redesigned-Desktop.png",
     "description": "After 6 months with the Model Y, here's everything you need to know.",
-    "url": "https://www.youtube.com/watch?v=yourVideoId2"
+    "url": "https://www.youtube.com/@MotorTrendsMw",
+    "timestamp": "2025-05-04T14:15:00Z"
   },
   {
     "id": 3,
     "title": "Is the BMW iX Worth the Hype?",
-    "thumbnail": "https://i.imgur.com/2nCt3Sb.jpg",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-ix-m60-108-1653422436.jpg?crop=0.825xw:0.695xh;0.119xw,0.0745xh&resize=1200:*",
     "description": "Luxury, power, and EV innovation collide. Full review inside!",
-    "url": "https://www.youtube.com/watch?v=yourVideoId3"
+    "url": "https://www.youtube.com/@MotorTrendsMw",
+    "timestamp": "2024-05-04T09:45:00Z"
   },
   {
     "id": 4,
     "title": "Top 5 SUVs to Buy in 2025",
-    "thumbnail": "https://i.imgur.com/T0I7rVf.jpg",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/2025-mazda-cx-50-103-668da21a9cbea.jpg?crop=0.607xw:0.511xh;0.0959xw,0.363xh&resize=1200:*",
     "description": "We compare the best SUVs coming out this year. #MotorTrendsMW",
-    "url": "https://www.youtube.com/watch?v=yourVideoId4"
+    "url": "https://www.youtube.com/@MotorTrendsMw",
+    "timestamp": "2024-05-04T16:20:00Z"
   }
 ]
