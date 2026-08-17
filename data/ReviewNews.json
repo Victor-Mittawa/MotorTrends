@@ -1,12 +1,15 @@
 [
-  {
-    "id": 1,
-    "title": "Get to know about Kei-Cars",
-    "thumbnail": "https://github.com/Victor-Mittawa/MotorTrends/blob/main/data/keicar.jpg?raw=true",
-    "description": "Did you know that this category of cars delivers a stunning horsepower of 64HP?",
-    "url": "https://www.youtube.com/shorts/Bc73guTRqK0",
-    "timestamp": "2025-05-05T17:30:00Z"
+{
+  "id": 1,
+  "title": "How to calculate estimated vehicle duty when importing from Japan",
+  "thumbnail": "https://github.com/Victor-Mittawa/MotorTrends/blob/main/data/keicar.jpg?raw=true",
+  "description": "Duty of cars increases witht the age of the vehicle and how big the engine is....",
+  "links": {
+    "youtube": "null",
+    "tiktok": "https://vt.tiktok.com/ZSVMhjgTB/"
   },
+  "timestamp": "2025-05-05T17:30:00Z"
+}
   {
     "id": 2,
     "title": "2024 Tesla Model Y Long Term Review",
